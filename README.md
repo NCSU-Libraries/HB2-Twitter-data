@@ -1,2 +1,5 @@
-# HB2-Twitter-data
- An ongoing collection of IDs for Tweets discussing North Carolina House Bill 2 (The Public Facilities Privacy &amp; Security Act)
+# North Carolina House Bill 2 Tweet IDs
+
+An ongoing collection of Tweets collected using twarc for the key terms "HB2", "WeAreNotThis", and "BoycottNC", "KeepNCFair", and "ThisIsNotUs". "WeAreNotThis", "BoycottNC", "ThisIsNotUs", and "North Carolina" beginning on 2016-03-24, and "HB2" beginning on 2016-12-25. Only Tweets including "HB2", "bathroom", "bill", or "KeepNCFair" are included from the "North Carolina" set. These tags were used to discuss North Carolina House Bill 2 (The Public Facilities Privacy & Security Act), passed in March 2016, which includes provisions (among others) that disallow local municipalities from passing their own anti-discrimination ordinances and also require individuals, when using use public bathrooms, to use those that align with their sex as stated on their birth certificates rather than the restroom that is consistent with their gender identity (see: https://en.wikipedia.org/wiki/Public_Facilities_Privacy_%26_Security_Act). This dataset is broken into files of no more than 50,000 Tweet IDs each.
+
+Tweets can be "rehydrated" with Documenting the Now's twarc tool (https://github.com/DocNow/twarc).
